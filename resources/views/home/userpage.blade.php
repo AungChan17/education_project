@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Kider - Preschool Website Template</title>
+    <title>AKS Private High School</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="images/favicon.ico" rel="icon">
+    <link href="images/letter-a.png" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -78,12 +78,12 @@
 
 
         <!-- Team Start -->
-        @include('home.team')
+        <!-- @include('home.team') -->
         <!-- Team End -->
 
 
         <!-- Testimonial Start -->
-        @include('home.client')
+        <!-- @include('home.client') -->
         <!-- Testimonial End -->
 
 

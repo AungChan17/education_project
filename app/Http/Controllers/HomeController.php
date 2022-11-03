@@ -22,7 +22,10 @@ class HomeController extends Controller
         $usertype=Auth::user()->usertype;
         if($usertype==1)
         {
-            return view('admin.home');
+            $total_student=student::all()->count();
+            $total_message=message::all()->count();
+            $total_all= $total_student + $total_message;
+            return view('admin.home',compact('total_student','total_message','total_all' ));
         }
         else
         {
