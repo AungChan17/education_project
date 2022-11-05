@@ -12,10 +12,6 @@ use Illuminate\Http\Request;
 
 class AdminController extends Controller
 {
-    public function admin_home()
-    {
-        return view('admin.home');
-    }
 
     public function student_message()
     {
