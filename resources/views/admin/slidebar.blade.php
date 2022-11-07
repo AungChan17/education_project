@@ -1,11 +1,5 @@
         <nav class="sidebar sidebar-offcanvas" id="sidebar">
           <ul class="nav">
-            <li style="width:300px ;" class="nav-item nav-profile">
-              <div>
-                <x-app-layout>
-                </x-app-layout>
-              </div>
-            </li>
             <li class="nav-item">
               <a class="nav-link" href="{{url('redirect')}}">
                 <span class="menu-title">Dashboard</span>
