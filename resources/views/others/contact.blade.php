@@ -53,7 +53,7 @@
                 <h1 class="display-2 text-white animated slideInDown mb-4">Contact Us</h1>
                 <nav aria-label="breadcrumb animated slideInDown">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="{{url('redirect')}}">Home</a></li>
+                        <li class="breadcrumb-item"><a href="{{url('/')}}">Home</a></li>
                         <li class="breadcrumb-item"><a href="{{url('classes')}}">Classes</a></li>
                         <li class="breadcrumb-item"><a href="{{url('contact')}}">Contact</a></li>
                     </ol>

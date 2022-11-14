@@ -12,28 +12,5 @@
                     <a href="{{url('classes')}}" class="nav-item nav-link">Classes</a>
                     <a href="{{url('contact')}}" class="nav-item nav-link">Contact Us</a>
                 </div>
-
-                @if (Route::has('login'))
-
-                @auth
-
-
-
-                <!-- <a class="btn btn-primary" id="logincss" href="{{ route('login') }}">Logout</a> -->
-                <x-app-layout>
-
-                </x-app-layout>
-
-
-                @else
-
-                <a class="btn btn-primary mx-2 "  href="{{ route('login') }}">Login</a>
-
-                <a class="btn btn-success" href="{{ route('register') }}">Register</a>
-
-
-                @endauth
-                
-                @endif
             </div>
         </nav>

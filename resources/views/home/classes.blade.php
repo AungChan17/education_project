@@ -20,7 +20,7 @@
                                             <small>Teacher</small>
                                         </div>
                                     </div> -->
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">35000kyats</span>
+                                    <!-- <span class="bg-primary text-white rounded-pill py-2 px-3" href="">35000kyats</span> -->
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -38,7 +38,7 @@
                                     <div class="col-4">
                                         <div class="border-top border-3 border-warning pt-2">
                                             <h6 class="text-warning mb-1">Capacity:</h6>
-                                            <small>30 Students in Each Class</small>
+                                            <small>40 Students</small>
                                         </div>
                                     </div>
                                 </div>
@@ -71,7 +71,7 @@
                                     <div class="col-4">
                                         <div class="border-top border-3 border-warning pt-2">
                                             <h6 class="text-warning mb-1">Capacity:</h6>
-                                            <small>30 Students in Each Class</small>
+                                            <small>40 Students</small>
                                         </div>
                                     </div>
                                 </div>
@@ -86,7 +86,7 @@
                             <div class="bg-light rounded p-4 pt-5 mt-n5">
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Grade 5 & Grade 6</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">70000kyats</span>
+                                    <!-- <span class="bg-primary text-white rounded-pill py-2 px-3" href="">70000kyats</span> -->
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -104,7 +104,7 @@
                                     <div class="col-4">
                                         <div class="border-top border-3 border-warning pt-2">
                                             <h6 class="text-warning mb-1">Capacity:</h6>
-                                            <small>30 Students in Each Class</small>
+                                            <small>40 Students</small>
                                         </div>
                                     </div>
                                 </div>
@@ -119,7 +119,7 @@
                             <div class="bg-light rounded p-4 pt-5 mt-n5">
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Grade 7 & Grade 8</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">100000kyats</span>
+                                    <!-- <span class="bg-primary text-white rounded-pill py-2 px-3" href="">100000kyats</span> -->
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -137,7 +137,7 @@
                                     <div class="col-4">
                                         <div class="border-top border-3 border-warning pt-2">
                                             <h6 class="text-warning mb-1">Capacity:</h6>
-                                            <small>30 Students in Each Class</small>
+                                            <small>40 Students</small>
                                         </div>
                                     </div>
                                 </div>
@@ -152,7 +152,7 @@
                             <div class="bg-light rounded p-4 pt-5 mt-n5">
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Grade 9 & Grade 10 </a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">150000kyats</span>
+                                    <!-- <span class="bg-primary text-white rounded-pill py-2 px-3" href="">150000kyats</span> -->
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -170,7 +170,7 @@
                                     <div class="col-4">
                                         <div class="border-top border-3 border-warning pt-2">
                                             <h6 class="text-warning mb-1">Capacity:</h6>
-                                            <small>30 Students in Each Class</small>
+                                            <small>40 Students</small>
                                         </div>
                                     </div>
                                 </div>
@@ -185,7 +185,7 @@
                             <div class="bg-light rounded p-4 pt-5 mt-n5">
                                 <a class="d-block text-center h3 mt-3 mb-4" href="">Grade 11 & Grade 12</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">180000kyats</span>
+                                    <!-- <span class="bg-primary text-white rounded-pill py-2 px-3" href="">180000kyats</span> -->
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -203,7 +203,7 @@
                                     <div class="col-4">
                                         <div class="border-top border-3 border-warning pt-2">
                                             <h6 class="text-warning mb-1">Capacity:</h6>
-                                            <small>30 Students in Each Class </small>
+                                            <small>40 Students </small>
                                         </div>
                                     </div>
                                 </div>

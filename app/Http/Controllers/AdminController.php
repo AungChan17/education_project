@@ -15,21 +15,21 @@ class AdminController extends Controller
 
     public function student_message()
     {
-        $message=message::all();
-        return view('admin.student_message',compact('message'));
+        $messages=message::paginate(5);
+        return view('admin.student_message',compact('messages'));
     }
 
 
-    public function student_list()
+    public function student_enroll()
     {
-        $student=student::all();
-        return view('admin.student_list',compact('student'));
+        $students=student::paginate(5);
+        return view('admin.student_enrollment',compact('students'));
     }
 
     public function delete_student($id)
     {
-        $student=student::find($id);
-        $student->delete();
+        $students=student::find($id);
+        $students->delete();
         return redirect()->back()->with('message','Student Deleted Successfully');
     }
 

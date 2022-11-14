@@ -63,6 +63,30 @@
                                 <a href="#">Cookies</a>
                                 <a href="#">Help</a>
                                 <a href="#">FQAs</a>
+
+                                @if (Route::has('login'))
+
+                                @auth
+
+
+
+                                <!-- <a class="btn btn-primary" id="logincss" href="{{ route('login') }}">Logout</a> -->
+                                <x-app-layout>
+
+                                </x-app-layout>
+
+
+                                @else
+
+                                <a href="{{ route('login') }}">Login</a>
+
+                                <!-- <a class="btn btn-success" href="{{ route('register') }}">Register</a> -->
+
+
+                                @endauth
+
+                                @endif
+
                             </div>
                         </div>
                     </div>

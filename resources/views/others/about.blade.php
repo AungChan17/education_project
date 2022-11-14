@@ -42,13 +42,12 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                         <h1 class="mb-4">Learn More About Our Work And Our Cultural Activities</h1>
-                        <p>The cultural activities enhance the confidence level for students, which allow students to perform better. Activities will develop the personality for students and assist the students for good career.</p>
-                        <p class="mb-4">They will remove stage fear: Stage fear is common problem around world for many students, even for adults too, but the schools can help students to remove stage fear at early age only.</p>
-                        <div class="row g-4 align-items-center">
+                        <p class="mb-4">Aung Kaung San Has Founded since 2013. The qualified teachers take a keen interest on the progress of the students. Each room accommodates about 40 students. We arrange debates, discussions, excursions and special lectures for the benefit of the students. We also arrange sports and games for physical education.</p>
+                        <!-- <div class="row g-4 align-items-center">
                             <div class="col-sm-6">
                                 <a class="btn btn-primary rounded-pill py-3 px-5" href="">Read More</a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                     <div class="col-lg-6 about-img wow fadeInUp" data-wow-delay="0.5s">
                         <div class="row">

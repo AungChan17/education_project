@@ -13,8 +13,8 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{url('student_list')}}">
-                <span class="menu-title">Student List</span>
+              <a class="nav-link" href="{{url('student_enrollment')}}">
+                <span class="menu-title">Student Enrollment</span>
                 <i class="mdi mdi-chart-bar menu-icon"></i>
               </a>
             </li>

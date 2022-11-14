@@ -29,7 +29,7 @@ Route::middleware([
     })->name('dashboard');
 });
 // HomeController
-Route::get('/redirect',[HomeController::class,'redirect']);
+Route::get('/redirect',[HomeController::class,'redirect'])->middleware('auth','verified');
 
 Route::get('/classes',[HomeController::class,'classes']);
 
@@ -44,7 +44,7 @@ Route::post('/parent_message',[HomeController::class,'parent_message']);
 // AdminController
 Route::get('/admin_home',[AdminController::class,'admin_home']);
 
-Route::get('/student_list',[AdminController::class,'student_list']);
+Route::get('/student_enrollment',[AdminController::class,'student_enroll']);
 
 Route::get('/student_message',[AdminController::class,'student_message']);
 
